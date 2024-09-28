@@ -1,2 +1,2 @@
 # OceanBaseDatabaseQuestion
-第四届OceanBase数据库大赛OceanBase代码仓库
+第四届OceanBase数据库大赛水水数据库队的OceanBase代码仓库
